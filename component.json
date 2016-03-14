@@ -1,0 +1,10 @@
+{
+    "name": "keycode",
+    "description": "Convert between keyboard keycodes and keynames and vice versa.",
+    "repos": "https://github.com/timoxley/keycode.git",
+    "main": "index.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "2.1.0"
+}
